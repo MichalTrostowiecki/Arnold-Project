@@ -1,1 +1,1 @@
-npm build
+npm install
