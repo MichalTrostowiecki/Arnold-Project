@@ -2,9 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Install create-react-app
+## Install create-react-app and dependency scripts.
 
-sudo npm -s install create-react-app
+npm -s install create-react-app
+npm install react-scripts --save
 
 ## Available Scripts
 
