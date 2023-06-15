@@ -1,5 +1,3 @@
-import "./App.css";
-import "./GoogleUserLogin";
 import GoogleUserLogin from "./GoogleUserLogin";
 
 function App() {
